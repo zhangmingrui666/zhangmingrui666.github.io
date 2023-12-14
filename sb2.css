@@ -1,0 +1,104 @@
+@charset "utf_8";
+body {
+	background-image: url(assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231210111921.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 24px;
+}
+nicheng {
+	text-shadow: 2px 2px 1px #FFFFFF;
+}
+.a {
+	text-shadow: 1px 1px 1px #FFFFFF;
+}
+.a1 {
+	margin-right: 0px;
+	padding-right: 101px;
+	background-image: url(assets/QQ%E6%88%AA%E5%9B%BE20231212210226.png);
+	background-repeat: no-repeat;
+	background-position: 100px 0%;
+	background-size: contain;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-bottom: 300px;
+	-webkit-transition: all 0.35s ease 0s;
+	-o-transition: all 0.35s ease 0s;
+	transition: all 0.35s ease 0s;
+}
+
+.a2 {
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-image: url(assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212211021.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 180px 0%;
+	-webkit-transition: all 0.35s ease 0s;
+	-o-transition: all 0.35s ease 0s;
+	transition: all 0.35s ease 0s;
+}
+.a3 {
+	padding-right: 170px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-image: url(assets/20220217200642_a5040.jpeg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 240px 0%;
+	-webkit-transition: all 0.35s ease 0s;
+	-o-transition: all 0.35s ease 0s;
+	transition: all 0.35s ease 0s;
+}
+tou {
+}
+
+
+.a1:hover {
+	background-position: 70px;
+	color: #FF0004;
+}
+.a3:hover {
+	background-position: 180px;
+	color: #FF0004;
+}
+.a2:hover {
+	background-position: 150px;
+	color: #FF0004;
+}
+.kuang {
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+
+
+}
+.kuang2 {
+
+}
+.toutou .biaoti {
+	text-shadow: 2px 2px 2px;
+}
+
+.kuang3 {
+	border-bottom: 1px solid #000000;
+	border-bottom-left-radius: 10px;
+}
+.kuang4 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-right-radius: 10px;
+}
+.kuang5 {
+	border-right: 2px dashed #30AAA2;
+}
+.kuang6 {
+	border-right: 2px dashed #2FB3A7;
+	border-top-right-radius: 10px;
+}
+.toutou {
+	border-radius: 20px;
+}
