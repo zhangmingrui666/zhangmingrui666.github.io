@@ -1,6 +1,6 @@
 @charset "utf_8";
 body {
-	background-image: url(assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231210111921.png);
+	background-image: url(%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231210111921.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-size: 24px;
@@ -14,7 +14,7 @@ nicheng {
 .a1 {
 	margin-right: 0px;
 	padding-right: 101px;
-	background-image: url(assets/QQ%E6%88%AA%E5%9B%BE20231212210226.png);
+	background-image: url(QQ%E6%88%AA%E5%9B%BE20231212210226.png);
 	background-repeat: no-repeat;
 	background-position: 100px 0%;
 	background-size: contain;
@@ -30,7 +30,7 @@ nicheng {
 	padding-right: 100px;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-image: url(assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212211021.jpg);
+	background-image: url(%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212211021.jpg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: 180px 0%;
@@ -44,7 +44,7 @@ nicheng {
 	padding-bottom: 15px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	background-image: url(assets/20220217200642_a5040.jpeg);
+	background-image: url(20220217200642_a5040.jpeg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-position: 240px 0%;
